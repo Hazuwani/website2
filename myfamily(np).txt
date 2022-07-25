@@ -1,0 +1,37 @@
+<html>
+<head>
+<title> My Family </title>
+</head>
+<a href ="website.html"></a>
+<style>
+body {
+  background-image: url('bg3.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
+<h2 align="center"><font face="Bernard MT Condensed" font color="#990012" size="40%"> &#128151; NR.HZWANI'S &#128151; </font></h2> 
+<center><p style="font-size:48px">
+
+<hr>
+<nav>
+<table cellspacing="2" cellpadding="30">
+<tr>
+<td><a href="mywebsite.html">WEBSITEHOME</a></td>
+<td><a href="mybiodata1">BIODATA</a></td>
+<td><a href="myeducation.html">EDUCATION</a></td>
+<td><a href="myfamily.html">FAMILY</a></td>
+<td><a href="myexperience.html">EXPERIENCE</a></td>
+<td><a href="gallery1.html">GALLERY</a></td>
+</tr>
+</table>
+</nav>
+
+<h1 align="center"><font face="Bernard MT Condensed" font color="#FAF7F9" size"40%"> &hearts; MY FAMILY &hearts; </font></h1><center><p style="font-size:48px"></p>
+<h3><p><b> My parents are nice and caring people. I am the only female among four brothers. My hopes for the family are numerous, and among them are that I will do my best in my studies and that I will make my parents proud by graduating and receiving outstanding exam results. I also want to make my family happy and assist my parents when they reach retirement age..<b></p><h3>
+<br>
+<br>
+<br>
+
+<img src="image/fmyquote2.jpeg" width="23%" height="50%" border="2" hspace="5" vspace="5"><img src="image/tokyahfmy.jpeg" width="30%" height="50%" border="2" hspace="5" vspace="5">

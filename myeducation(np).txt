@@ -1,0 +1,47 @@
+html>
+<head>
+<title> My Education </title>
+</head>
+<a href ="website.html"></a>
+<style>
+body {
+  background-image: url('bg7.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
+<h2 align="center"><font face="Bernard MT Condensed" font color="#990012" size="40%"> &#128151; NR.HZWANI'S &#128151; </font></h2> 
+<center><p style="font-size:48px">
+
+<hr>
+<nav>
+<table cellspacing="2" cellpadding="30">
+<tr>
+<td><a href="mywebsite.html">WEBSITEHOME</a></td>
+<td><a href="mybiodata1">BIODATA</a></td>
+<td><a href="myeducation.html">EDUCATION</a></td>
+<td><a href="myfamily.html">FAMILY</a></td>
+<td><a href="myexperience.html">EXPERIENCE</a></td>
+<td><a href="gallery1.html">GALLERY</a></td>
+</tr>
+</table>
+</nav>
+<h1 align="center"><font face="Bernard MT Condensed" font color="#F9F7F8" size"40%">&hearts; MY EDUCATION &hearts;</font></h1><center><p style="font-size:48px"></p>
+
+
+
+
+<img src="image/thaifrd.jpeg" width="30%" height="45%" border="2" hspace="5" vspace="5">
+
+<video width="23%" controls>
+  <source src="videome.mp4" type="video/mp4">
+  <source src="videome.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
+
+<img src="image/uitmk.jpeg" width="30%" height="%" border="2" hspace="5" vspace="5">
+<br>
+<br>
+<br>
+<h3><p align+"center"><b>In 2019, I registered at UITM Kedah to pursue a diploma programme. During my time here, I gathered a lot of experience. I also learned to be more self-sufficient because I had never sat in a dorm before. I made a lot of wonderful friends and athletic classmates here, and I was excited to get to know them. Now that I'm in my fifth semester, all I have to do is study, and I'm hoping to perform well..<b></p></h3>
